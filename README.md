@@ -1,6 +1,3 @@
-# Retos-CSharp
-Retos que he ido haciendo con lo aprendido en C#
-
 # Retos en C#
 Este repositorio contiene tres pequeños retos desarrollados en C# como práctica:
 
